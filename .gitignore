@@ -1,0 +1,4 @@
+/node_modules
+.env
+artist.csv
+.DS_Store
